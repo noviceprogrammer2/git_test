@@ -1,0 +1,17 @@
+Here is a list of helpful git commands
+
+
+#Commands related to a remote repository
+
+git clone git@github.com:USER-NAME/REPOSITROY-NAME.git
+git push or git push origin main
+
+#Commands related to the workflow
+
+git add <File name> (Adds file to staging area) 
+git commit - m "A message saying what's different about this snapshot"
+
+#Commands related to checking status or log history
+
+git status
+git log
