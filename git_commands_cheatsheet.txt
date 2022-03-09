@@ -8,8 +8,8 @@ git push or git push origin main
 
 #Commands related to the workflow
 
-git add <File name> (Adds file to staging area) 
-git commit - m "A message saying what's different about this snapshot"
+git add <File name> (Adds file to staging area, can type . to add directory) 
+git commit -m "A message saying what's different about this snapshot"
 
 #Commands related to checking status or log history
 
